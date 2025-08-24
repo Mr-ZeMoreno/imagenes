@@ -1,0 +1,3 @@
+[submodule "__scripts"]
+	path = __scripts
+	url = https://github.com/Mr-ZeMoreno/scripts.git
